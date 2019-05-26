@@ -56,7 +56,7 @@ const TOKEN = "bot_token";
 1. Отправьте боту команду **/start**
 2. Отправьте боту команду **/help**
 
-###HAVE FUN
+HAVE FUN
 
 
  
