@@ -1,0 +1,17 @@
+{
+    "name": "aprymeht/telebot_elasticsearch_aero",
+    "type": "practice",
+    "description": "Telegram bot witch ElasticSearch service",
+    "keywords": ["telegram", "bot", "ElasticSearch"],
+    "license": "none",
+    "authors": [
+        {
+            "name": "Yaroslav Dzyza",
+            "email": "drom.yasa@gmail.com"
+        }
+    ],
+    "require": {
+        "telegram-bot/api": "^2.3",
+        "elasticsearch/elasticsearch": "^6.7"
+    }
+}
