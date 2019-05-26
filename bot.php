@@ -1,8 +1,8 @@
 <?php
 
-include('SearchData.php');
-include('IndexData.php');
-include('DeleteData.php');
+include('src/SearchData.php');
+include('src/IndexData.php');
+include('src/DeleteData.php');
 require_once "vendor/autoload.php";
 
 
